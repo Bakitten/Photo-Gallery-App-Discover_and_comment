@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135681327017",
+    "project_id": "baki-online-gallery",
+    "storage_bucket": "baki-online-gallery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135681327017:android:57be6d0b4e66e121ceceb8",
+        "android_client_info": {
+          "package_name": "com.example.t6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUFUkF5ASY53g0idbSs1b_R255OyUqURg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
